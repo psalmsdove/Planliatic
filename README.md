@@ -10,3 +10,5 @@ You can favourite your tasks and see them.
 There is nothing else. 
 
 I will update the app with some UI fixes.
+
+## Core Data has been used in this app.
